@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "flamengoBrasiFlamengolia - Brasil"
-title                    : "Caio S. Perez / oniinonio"
+locale                   : "Brasilia - Brasil"
+title                    : "Caio S. Perez "
 title_separator          : "-"
 name                     : &name "Caio"
 description              : &description "perasdsonal description"

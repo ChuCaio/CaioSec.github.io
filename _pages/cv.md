@@ -13,8 +13,6 @@ redirect_from:
 Education
 ======
 * Graduacao em Filosofia , UCB - Distrito Federal.
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
 Experiencia
 ======
